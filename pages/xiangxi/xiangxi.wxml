@@ -1,0 +1,11 @@
+<view class='bigbox' style='margin-bottom:8vh;'>
+  <view class='box'>
+      <text style='font-size:34rpx'>{{all}}</text>
+  </view>
+</view>
+
+  <view class='anniu'>
+    <button bindtap='prev'>上一个</button>
+    <button bindtap='next'>下一个</button>
+  </view>
+

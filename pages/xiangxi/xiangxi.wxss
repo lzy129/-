@@ -1,0 +1,10 @@
+@import'../index/index.wxss';
+.anniu{
+  display: flex;
+  position: fixed;
+  bottom: 0;
+}
+.anniu button{
+   width: 50vw;
+   height: 7vh;
+}

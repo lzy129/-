@@ -1,0 +1,43 @@
+.find{
+  display: flex;  
+  height: 10vh;
+  justify-content: center;
+  align-items: center;
+  background-color: gainsboro
+}
+
+.find input{
+  border: 1px solid gainsboro;
+  width: 70vw;
+  background-color: white;
+  height: 6.6vh;
+}
+
+.find button{
+  width: 20vw;
+  margin: 0;
+  background-color:white;
+  border: none
+}
+
+.bigbox{
+  margin: auto;
+  width: 96vw;
+  text-overflow: ellipsis;
+}
+
+.bigbox>view{
+  margin: 10rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 5px 5px 5px gainsboro;
+  border:1px solid ghostwhite;
+}
+
+.bigbox>view view{
+  margin: 10rpx;
+}
+.bigbox>view text{
+  margin: 10rpx;
+}

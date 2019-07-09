@@ -1,0 +1,8 @@
+<!--pages/js/js.wxml-->
+<view class='bigbox'>
+  <view wx:for="{{arr}}" wx:key="index" style='height:15vh;' data-id='{{item.id}}' data-leibie='{{item.leibie}}' bindtap='send'>
+    <view style='font-size:36rpx'>{{item.timu}}</view>
+    <text style='font-size:28rpx'>{{item.jianjie}}</text>
+  </view>
+</view>
+

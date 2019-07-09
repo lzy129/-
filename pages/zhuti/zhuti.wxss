@@ -1,0 +1,28 @@
+/* page{
+  background-color: gainsboro
+} */
+
+.title{
+  width: 96vw;
+  height: 8vh;
+  line-height: 8vh;
+  margin: auto;
+}
+
+.box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 94vw;
+  margin: auto;
+  background-color: white
+}
+
+.box navigator{
+  width: 45vw;
+  border: 1px solid gainsboro;
+  height: 15vh;
+  box-shadow:5rpx 5rpx 10rpx gray;
+  line-height: 15vh;
+  text-align: center;
+}

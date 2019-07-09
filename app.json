@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/zhuti/zhuti",
+    "pages/index/index",
+    "pages/xiangxi/xiangxi",
+    "pages/vue/vue",
+    "pages/js/js",
+    "pages/es6/es6",
+    "pages/node/node",
+    "pages/css/css"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": false
+  },
+  "sitemapLocation": "sitemap.json"
+}
